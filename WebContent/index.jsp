@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>bts530 group 26 HomePage</title>
+<title>Group 26 HomePage</title>
 </head>
-<body>	
-<h1>Welcome to Group 26 </h1>
+<body>
+	<h1>Welcome to Group 26</h1>
 
 </body>
 </html>
